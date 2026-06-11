@@ -1,0 +1,7 @@
+[project]
+name = "daily-report"
+version = "0.1.0"
+description = "Utilities for generating the daily work report."
+requires-python = ">=3.12"
+dependencies = []
+
